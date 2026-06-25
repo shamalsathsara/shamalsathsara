@@ -30,7 +30,6 @@ Building modern web applications, exploring AI technologies, and creating useful
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -59,9 +58,9 @@ Building modern web applications, exploring AI technologies, and creating useful
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamalsathsara&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamalsathsara&theme=tokyonight"/>
 
 </p>
 
@@ -70,7 +69,7 @@ Building modern web applications, exploring AI technologies, and creating useful
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamalsathsara&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -95,16 +94,16 @@ Collection of academic projects including Data Mining, Machine Learning, and Web
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
-<img src="www.linkedin.com/in/shamal-sathsara-93a245267">
+<a href="www.linkedin.com/in/shamal-sathsara-93a245267">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://my-portfolio-nu-virid-24.vercel.app/">
+<a href="[YOUR_PORTFOLIO](https://my-portfolio-nu-virid-24.vercel.app/)">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://mail.google.com/mail/u/0/#inbox">
+<a href="[mailto:YOUR_EMAIL](https://mail.google.com/mail/u/0/#inbox)">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
@@ -113,7 +112,7 @@ Collection of academic projects including Data Mining, Machine Learning, and Web
 
 ## 👀 Visitors
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=shamalsathsara&color=blue)
 
 ---
 
