@@ -98,11 +98,11 @@ Collection of academic projects including Data Mining, Machine Learning, and Web
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="[YOUR_PORTFOLIO](https://my-portfolio-nu-virid-24.vercel.app/)">
+<a href="https://my-portfolio-nu-virid-24.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
 </a>
 
-<a href="[mailto:YOUR_EMAIL](https://mail.google.com/mail/u/0/#inbox)">
+<a href="https://mail.google.com/mail/u/0/#inbox">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
