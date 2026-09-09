@@ -4,14 +4,13 @@
 
 ### Full-Stack Developer • IT Undergraduate • ML Enthusiast
 
-Building real-world web applications, automation systems and
-intelligent software solutions.
+Building real-world web applications, automation systems, and intelligent software solutions.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://shamal-sathsara.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shamal-sathsara.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <br>
 
@@ -23,68 +22,24 @@ intelligent software solutions.
 
 ## 👨‍💻 About Me
 
-I'm an IT undergraduate with hands-on experience developing
-**full-stack applications, automation systems, and ML-powered solutions**.
+I'm an IT undergraduate with hands-on experience building:
 
-I enjoy taking ideas from concept to working applications and have
-experience with both academic projects and systems built for real-world use.
+- Full-stack web applications
+- Real-world software projects
+- WhatsApp automation systems
+- REST API integrations
+- Database-driven applications
+- Machine Learning-based solutions
 
-- 🔭 Currently improving my **Hardware Bottleneck Analyzer**
-- 🌱 Strengthening **React, Node.js, APIs & Machine Learning**
-- 🖥️ Interested in **IT Infrastructure & System Administration**
-- 💡 Interested in building practical solutions to real-world problems
-- 🎯 Currently seeking **internship opportunities**
+I enjoy solving practical problems and turning ideas into working applications.
 
----
+Currently:
 
-## 📊 GitHub Performance
-
-<div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=shamalsathsara&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamalsathsara&layout=compact&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=shamalsathsara&hide_border=true" />
-
-</div>
-
-> GitHub statistics represent public repository activity and may not
-> include work from private or client projects.
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Backend & Database
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
-
-### Programming
-
-![Languages](https://skillicons.dev/icons?i=python,java)
-
-### Development Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
-
-</div>
+- 🔭 Improving my **Hardware Bottleneck Analyzer**
+- 🌱 Strengthening **JavaScript, React, Node.js, Express.js and backend development**
+- 🤖 Exploring **Machine Learning and AI integrations**
+- 🖥️ Learning more about **IT Infrastructure and System Administration**
+- 🎯 Looking for **internship opportunities**
 
 ---
 
@@ -94,27 +49,30 @@ src="https://streak-stats.demolab.com/?user=shamalsathsara&hide_border=true" />
 
 > **Full-Stack • Machine Learning • Hardware Intelligence**
 
-An intelligent PC hardware analysis platform designed to analyze system
-balance and provide useful performance insights.
+An intelligent PC hardware analysis platform designed to evaluate computer configurations and provide performance insights.
 
-### ✨ Highlights
+### ✨ Key Features
 
-- CPU & GPU bottleneck analysis
-- ML-based FPS prediction
-- Game hardware requirements
+- CPU and GPU bottleneck analysis
+- Machine Learning-based FPS prediction
 - Resolution-aware performance analysis
-- CPU/GPU hardware search
-- Rig comparison
-- User authentication & saved rigs
+- CPU and GPU search
+- Hardware comparison
+- PC rig management
+- User authentication
+- Saved rigs
+- Game catalog
+- Game hardware requirements
+- Game detail pages
+- REST API-based backend
 - Hardware quotation tools
-- REST API architecture
-- Game performance data integration
+- Game-aware performance features
 
-**Stack**
+### 🛠 Tech Stack
 
-`React` `Node.js` `Express.js` `MongoDB` `Python` `Machine Learning`
+`React` `JavaScript` `Node.js` `Express.js` `MongoDB` `Python` `Machine Learning` `REST API`
 
-➡️ **Flagship academic & technical project**
+⭐ **Flagship Academic & Technical Project**
 
 ---
 
@@ -122,8 +80,7 @@ balance and provide useful performance insights.
 
 > **Real-World Project • WhatsApp Automation**
 
-A real-world WhatsApp bot developed to automate interactions and provide
-services directly through WhatsApp.
+A real-world WhatsApp automation system developed to provide automated services and interactions through WhatsApp.
 
 ### ✨ Highlights
 
@@ -131,10 +88,11 @@ services directly through WhatsApp.
 - Automated message processing
 - Command-based interactions
 - API integrations
-- Backend automation
+- Backend logic
+- Event-driven processing
 - Real-world usage
 
-**Stack**
+### 🛠 Tech Stack
 
 `Node.js` `JavaScript` `Baileys` `REST APIs`
 
@@ -144,19 +102,20 @@ services directly through WhatsApp.
 
 > **Real-World Web Application**
 
-A web project developed for real-world use, providing practical experience
-in developing and maintaining production-oriented software.
+A web project developed for real-world use, giving practical experience in building, maintaining, and deploying a production-oriented application.
 
 ### ✨ Highlights
 
-- Responsive web development
-- Frontend/backend integration
-- API integration
-- Debugging & maintenance
+- Web application development
+- Responsive UI development
+- Frontend and backend integration
+- API integrations
+- Debugging
+- Maintenance
 - Production deployment
 - Real-user environment
 
-**Source availability depends on project requirements.**
+🔒 **Source code may be maintained privately depending on project requirements.**
 
 ---
 
@@ -168,20 +127,88 @@ A community-focused web platform developed and deployed for real-world use.
 
 ### ✨ Highlights
 
-- Production web development
+- Real-world web development
 - Responsive application design
 - Frontend/backend integration
 - Deployment
 - Maintenance
+- Production-oriented development
 - Real-world problem solving
 
-🌐 [Visit Live Website](https://www.togertherwerise.com/)
+🌐 **Live Website:**  
+https://www.togertherwerise.com/
 
-🔒 Source code is maintained in a private repository.
+🔒 **Source code is maintained in a private repository.**
 
 ---
 
-## 🧠 Development Areas
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<br><br>
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python,java,js" />
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamalsathsara&theme=github_dark"
+height="170"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamalsathsara&theme=github_dark"
+height="170"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=shamalsathsara&theme=github-dark-blue&hide_border=true"
+/>
+
+</div>
+
+> GitHub statistics represent repository activity and may not include all work from private or client projects.
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamalsathsara&theme=github-compact&hide_border=true)](https://github.com/shamalsathsara)
+
+</div>
+
+---
+
+## 🧠 Current Learning Focus
 
 ```text
 Full-Stack Development     ███████████████████░
