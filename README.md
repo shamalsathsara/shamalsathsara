@@ -1,41 +1,90 @@
-# Hi, I'm Shamal Sathsara 👋
+<div align="center">
 
-### IT Undergraduate | Full-Stack Developer | Software Engineering Enthusiast
+# 👋 Hi, I'm Shamal Sathsara
 
-I'm an IT undergraduate with hands-on experience building full-stack web applications, automation systems, and machine-learning-based solutions.
+### Full-Stack Developer • IT Undergraduate • ML Enthusiast
 
-I enjoy solving real-world problems through software and have experience developing and deploying projects using modern web technologies.
+Building real-world web applications, automation systems and
+intelligent software solutions.
 
-Currently seeking **Software Engineering, Full-Stack Development, and IT-related internship opportunities** where I can contribute, learn, and gain professional industry experience.
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://shamal-sathsara.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shamalsathsara&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm an IT undergraduate with hands-on experience developing
+**full-stack applications, automation systems, and ML-powered solutions**.
+
+I enjoy taking ideas from concept to working applications and have
+experience with both academic projects and systems built for real-world use.
+
+- 🔭 Currently improving my **Hardware Bottleneck Analyzer**
+- 🌱 Strengthening **React, Node.js, APIs & Machine Learning**
+- 🖥️ Interested in **IT Infrastructure & System Administration**
+- 💡 Interested in building practical solutions to real-world problems
+- 🎯 Currently seeking **internship opportunities**
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=shamalsathsara&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamalsathsara&layout=compact&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=shamalsathsara&hide_border=true" />
+
+</div>
+
+> GitHub statistics represent public repository activity and may not
+> include work from private or client projects.
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue)
+![React](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
+### Backend & Database
 
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-orange)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### Programming
+
+![Languages](https://skillicons.dev/icons?i=python,java)
+
+### Development Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
+</div>
 
 ---
 
@@ -43,117 +92,100 @@ Currently seeking **Software Engineering, Full-Stack Development, and IT-related
 
 ## 🖥️ Hardware Bottleneck Analyzer
 
-A full-stack hardware analysis platform designed to evaluate PC configurations and provide intelligent performance insights.
+> **Full-Stack • Machine Learning • Hardware Intelligence**
 
-The project combines web development, hardware data processing, and Machine Learning to help users better understand their PC's performance.
+An intelligent PC hardware analysis platform designed to analyze system
+balance and provide useful performance insights.
 
-### Key Features
-- CPU and GPU bottleneck analysis
-- Machine Learning-based FPS prediction
-- Hardware search and comparison
-- PC rig management
+### ✨ Highlights
+
+- CPU & GPU bottleneck analysis
+- ML-based FPS prediction
 - Game hardware requirements
 - Resolution-aware performance analysis
-- REST API-based architecture
-- User authentication
+- CPU/GPU hardware search
+- Rig comparison
+- User authentication & saved rigs
 - Hardware quotation tools
+- REST API architecture
+- Game performance data integration
 
-### Technologies
-`React` `Node.js` `Express.js` `MongoDB` `Python` `Machine Learning` `REST API`
+**Stack**
 
-This is my main academic and technical project and is actively being improved with additional game-aware performance features.
+`React` `Node.js` `Express.js` `MongoDB` `Python` `Machine Learning`
+
+➡️ **Flagship academic & technical project**
 
 ---
 
-## 🤖 Queen Aura — WhatsApp Bot
+## 🤖 Queen Aura
 
-A real-world WhatsApp automation project designed to provide automated services and information through WhatsApp.
+> **Real-World Project • WhatsApp Automation**
 
-The project gave me practical experience working with event-driven applications, APIs, automation, and backend development.
+A real-world WhatsApp bot developed to automate interactions and provide
+services directly through WhatsApp.
 
-### Highlights
+### ✨ Highlights
+
 - WhatsApp automation
-- Automated message handling
+- Automated message processing
 - Command-based interactions
 - API integrations
-- Backend logic and data processing
-- Real-world deployment and usage
+- Backend automation
+- Real-world usage
 
-### Technologies
-`Node.js` `JavaScript` `Baileys` `REST APIs` `Git`
+**Stack**
+
+`Node.js` `JavaScript` `Baileys` `REST APIs`
 
 ---
 
 ## 🌐 GeekHell Web
 
-A real-world web development project built to provide an accessible and practical web-based service.
+> **Real-World Web Application**
 
-Working on this project provided experience beyond academic development, including building functionality intended for real users and maintaining a deployed application.
+A web project developed for real-world use, providing practical experience
+in developing and maintaining production-oriented software.
 
-### Experience Gained
-- Web application development
-- Responsive UI development
-- Backend integration
+### ✨ Highlights
+
+- Responsive web development
+- Frontend/backend integration
 - API integration
-- Debugging and maintenance
+- Debugging & maintenance
 - Production deployment
+- Real-user environment
 
-**Source code may be maintained privately depending on project requirements.**
+**Source availability depends on project requirements.**
 
 ---
 
 ## 🌍 Together We Rise
 
-A real-world web project developed for a community-focused platform.
+> **Real-World • Production Web Project**
 
-The project provided practical experience working on a production-oriented application and applying software development skills outside an academic environment.
+A community-focused web platform developed and deployed for real-world use.
 
-### Experience Gained
-- Real-world web development
-- Frontend and backend integration
+### ✨ Highlights
+
+- Production web development
 - Responsive application design
-- Deployment and maintenance
-- Problem solving in a production environment
+- Frontend/backend integration
+- Deployment
+- Maintenance
+- Real-world problem solving
 
-🌐 **Live Website:** https://www.togertherwerise.com/
+🌐 [Visit Live Website](https://www.togertherwerise.com/)
 
-**Source code is maintained in a private repository.**
-
----
-
-# 💡 What I'm Currently Working On
-
-- Improving my Full-Stack Development skills
-- Developing the next version of my Hardware Bottleneck Analyzer
-- Strengthening my JavaScript, React and Node.js knowledge
-- Exploring Machine Learning and AI integration
-- Learning more about IT Infrastructure and System Administration
+🔒 Source code is maintained in a private repository.
 
 ---
 
-# 🎯 Career Interests
+## 🧠 Development Areas
 
-I'm currently looking for internship opportunities in:
-
-- Software Engineering
-- Full-Stack Development
-- Web Development
-- IT Infrastructure
-- System Administration
-- IT Support / Technical Operations
-
-I'm particularly interested in opportunities where I can work on real-world systems, learn from experienced professionals, and continue improving my technical skills.
-
----
-
-# 📫 Connect With Me
-
-🌐 Portfolio: https://shamal-sathsara.vercel.app/
-
-💼 LinkedIn: www.linkedin.com/in/shamal-sathsara-93a245267
-
-📧 Email: shamalsathsara4@gmail.com
-
----
-
-> Always learning, building, and improving.
+```text
+Full-Stack Development     ███████████████████░
+REST API Development       ██████████████████░░
+Database Development       █████████████████░░░
+Machine Learning           ███████████████░░░░░
+System Administration      ████████████░░░░░░░░
