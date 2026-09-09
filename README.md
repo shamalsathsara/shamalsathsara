@@ -202,7 +202,10 @@ src="https://streak-stats.demolab.com?user=shamalsathsara&theme=github-dark-blue
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamalsathsara&theme=github-compact&hide_border=true)](https://github.com/shamalsathsara)
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamalsathsara&theme=github_dark"
+  width="100%"
+/>
 
 </div>
 
@@ -210,9 +213,16 @@ src="https://streak-stats.demolab.com?user=shamalsathsara&theme=github-dark-blue
 
 ## 🧠 Current Learning Focus
 
-```text
-Full-Stack Development     ███████████████████░
-REST API Development       ██████████████████░░
-Database Development       █████████████████░░░
-Machine Learning           ███████████████░░░░░
-System Administration      ████████████░░░░░░░░
+<div align="center">
+
+| Area | Current Focus |
+|---|---|
+| Full-Stack Development | High |
+| REST API Development | High |
+| Database Development | High |
+| Machine Learning | Growing |
+| System Administration | Growing |
+
+</div>
+
+> These represent my current learning priorities, not formal skill ratings.
